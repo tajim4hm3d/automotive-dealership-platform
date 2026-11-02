@@ -1,0 +1,6 @@
+// PORTFOLIO DEMO DATA — entirely fictional vehicles, not client inventory.
+window.NORTHSTAR_SEED_CARS = [
+  {id:1001,isDemo:true,status:'available',make:'Orion',model:'S7 Touring',trim:'Illustrative estate car',year:2022,mileage:24000,price:18995,fuel:'Petrol',gearbox:'Automatic',colour:'Graphite',photos:[],description:'Fictional example listing. Demonstrates car cards, filters, galleries and enquiry links.',features:['Climate control','Parking sensors','Navigation'],history:['Demo listing — no real history'],power:'',sellerNote:'',sourceUrl:''},
+  {id:1002,isDemo:true,status:'available',make:'Meridian',model:'GT',trim:'Illustrative grand tourer',year:2020,mileage:33000,price:23950,fuel:'Petrol',gearbox:'Automatic',colour:'Silver',photos:[],description:'Fictional example listing. No real customer or vehicle data is included.',features:['Heated seats','Bluetooth','Cruise control'],history:['Demo listing — no real history'],power:'',sellerNote:'',sourceUrl:''},
+  {id:1003,isDemo:true,status:'sold',make:'Nova',model:'City',trim:'Illustrative city hatchback',year:2019,mileage:47000,price:8495,fuel:'Petrol',gearbox:'Manual',colour:'Blue',photos:[],description:'Fictional sold example to demonstrate stock-status management.',features:['Air conditioning','USB input'],history:['Demo listing — no real history'],power:'',sellerNote:'',sourceUrl:''}
+];
